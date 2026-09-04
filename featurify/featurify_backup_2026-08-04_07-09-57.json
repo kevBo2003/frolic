@@ -1,0 +1,41 @@
+{
+  "config_version": "1.0.4",
+  "config_datetime": "2026-07-02_21-27-57",
+  "global": {
+    "disable_all_placed_features": false
+  },
+  "placed_features": [
+    {
+      "name": "bountifulfares:lemon_placed",
+      "is_disabled": true
+    },
+    {
+      "name": "bountifulfares:plum_blooming_taiga",
+      "is_disabled": true
+    },
+    {
+      "name": "bountifulfares:plum_flower_forest_placed",
+      "is_disabled": true
+    },
+    {
+      "name": "bountifulfares:plum_placed",
+      "is_disabled": true
+    },
+    {
+      "name": "bountifulfares:tea_shrub_placed",
+      "is_disabled": true
+    },
+    {
+      "name": "spawn:patch_short_windswept_grass",
+      "is_disabled": true
+    },
+    {
+      "name": "spawn:patch_tall_windswept_grass",
+      "is_disabled": true
+    },
+    {
+      "name": "spawn:patch_windswept_grass",
+      "is_disabled": true
+    }
+  ]
+}

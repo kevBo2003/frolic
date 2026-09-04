@@ -1,0 +1,37 @@
+{
+  "config_version": "1.0.3",
+  "config_datetime": "2026-06-27_04-54-36",
+  "global": {
+    "disable_all_placed_features": false
+  },
+  "placed_features": [
+    {
+      "name": "bountifulfares:tea_shrub_placed",
+      "is_disabled": true
+    },
+    {
+      "name": "hybrid_beta:patch_grass_plain",
+      "is_disabled": true
+    },
+    {
+      "name": "hybrid_beta:patch_grass_savanna",
+      "is_disabled": true
+    },
+    {
+      "name": "hybrid_beta:patch_grass_temperate_rainforest",
+      "is_disabled": true
+    },
+    {
+      "name": "spawn:patch_short_windswept_grass",
+      "is_disabled": true
+    },
+    {
+      "name": "spawn:patch_tall_windswept_grass",
+      "is_disabled": true
+    },
+    {
+      "name": "spawn:patch_windswept_grass",
+      "is_disabled": true
+    }
+  ]
+}
